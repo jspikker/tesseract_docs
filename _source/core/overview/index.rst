@@ -6,12 +6,12 @@ Tesseract is a motion planning framework developed by Southwest Research Institu
 
 Before we begin, this is not a fork of MoveIt. It has been developed from the ground up but was inspired by MoveIt where we leveraged our knowledge of MoveIt to help shape the architecture to enable the necessary functionality needed in industrial automation.
 
-Tesseract Planning Framework is currently broken out into four repositories.
+Tesseract Planning Framework is currently broken out into four repositories:
 
-    tesseract - Contain core package shown in the image below
-    tesseract_planning - Contains motion and process planning packages (TrajOpt, OMPL, Descartes, etc.)
-    tesseract_python - Python wrappers for tesseract and tesseract_planning repositories
-    tesseract_ros - ROS wrappers exposing the capabilities of tessseract and tesseract_planning repositories
+- tesseract - Contain core package shown in the image below
+- tesseract_planning - Contains motion and process planning packages (TrajOpt, OMPL, Descartes, etc.)
+- tesseract_python - Python wrappers for tesseract and tesseract_planning repositories
+- tesseract_ros - ROS wrappers exposing the capabilities of tessseract and tesseract_planning repositories
 
 
 Tesseract Environment
